@@ -6,8 +6,8 @@ Links below to visualize the notebooks rendered.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [DTSA_5509_Final_Part1_of_2.ipynb](https://nbviewer.org/github/stevensmiley1989/DTSA_5509_Final/blob/main/DTSA_5509_Final_Part1_of_2.ipynb) | Part 1 of 2 |
-|  [DTSA_5509_Final_Part2_of_2.ipynb](https://nbviewer.org/github/stevensmiley1989/DTSA_5509_Final/blob/main/DTSA_5509_Final_Part2.ipynb) | Part 2 of 2 |
+| [DTSA_5509_Final_Part1_of_2.ipynb](https://nbviewer.org/github/stevensmiley1989/VAERS_Analysis/blob/main/DTSA_5509_Final_Part1_of_2.ipynb) | Part 1 of 2 |
+|  [DTSA_5509_Final_Part2_of_2.ipynb](https://nbviewer.org/github/stevensmiley1989/VAERS_Analysis/blob/main/DTSA_5509_Final_Part2_of_2.ipynb) | Part 2 of 2 |
 
 
 ## 2 Data Inputs <a class="anchor" id="2"></a>
